@@ -1,0 +1,4 @@
+num3=input("Enter your third numbert")
+num4=input("Enter your fourth number")
+sum=num3+num4
+print("sum of two values:",sum)
